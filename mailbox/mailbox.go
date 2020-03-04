@@ -5,9 +5,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/mailhog/backends/config"
-	"github.com/mailhog/backends/delivery"
-	"github.com/mailhog/backends/resolver"
+	"github.com/7ojo/backends/config"
+	"github.com/7ojo/backends/delivery"
+	"github.com/7ojo/backends/resolver"
 )
 
 // Service represents a delivery service implementation

@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/mailhog/backends/config"
+	"github.com/7ojo/backends/config"
 	"github.com/mailhog/smtp"
 )
 
