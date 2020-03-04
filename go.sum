@@ -4,8 +4,6 @@ github.com/gopherjs/gopherjs v0.0.0-20181017120253-0766667cb4d1 h1:EGx4pi6eqNxGa
 github.com/gopherjs/gopherjs v0.0.0-20181017120253-0766667cb4d1/go.mod h1:wJfORRmW1u3UXTncJ5qlYoELFm8eSnnEO6hX4iZ3EWY=
 github.com/jtolds/gls v4.20.0+incompatible h1:xdiiI2gbIgH/gLH7ADydsJ1uDOEzR8yvV7C0MuV77Wo=
 github.com/jtolds/gls v4.20.0+incompatible/go.mod h1:QJZ7F/aHp+rZTRtaJ1ow/lLfFfVYBRgL+9YlvaHOwJU=
-github.com/mailhog/backends v0.0.0-20151213233825-0c50f4c39089 h1:2R14WkErgWapppA5OvknxgMaiuC3orzYy7VMbAG/h4A=
-github.com/mailhog/backends v0.0.0-20151213233825-0c50f4c39089/go.mod h1:1n2U23Em2vfJOlzCBHjNqG3M8p2AimtfWT+sE2eh0kk=
 github.com/mailhog/data v1.0.0 h1:WuMDK3mslO5CSCqqb0igfvqMaD3YkOcbEkH//DYcPkI=
 github.com/mailhog/data v1.0.0/go.mod h1:tjR/iXRhbSUKHzAAMd99RygVaDB5rIDC/bmWc363MzU=
 github.com/mailhog/smtp v1.0.0 h1:2arZwkTMkyfJTGPf/XGOFnTRWXEGvn7h6K+4DG9mdws=
