@@ -11,7 +11,7 @@ import (
 	"golang.org/x/crypto/bcrypt"
 
 	cfg "github.com/7ojo/backends/config"
-	"github.com/mailhog/smtp"
+	"github.com/7ojo/smtp"
 )
 
 var localMechanisms = []string{"PLAIN"}

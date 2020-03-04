@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/7ojo/backends/config"
-	"github.com/mailhog/data"
+	"github.com/7ojo/data"
 )
 
 // LocalResolver implements resolver.Service

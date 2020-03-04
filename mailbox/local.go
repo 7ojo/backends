@@ -11,7 +11,7 @@ import (
 	"github.com/7ojo/backends/config"
 	"github.com/7ojo/backends/delivery"
 	"github.com/7ojo/backends/resolver"
-	"github.com/mailhog/data"
+	"github.com/7ojo/data"
 )
 
 // LocalMailbox implements delivery.Service

@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/7ojo/backends/config"
-	"github.com/mailhog/smtp"
+	"github.com/7ojo/smtp"
 )
 
 /*

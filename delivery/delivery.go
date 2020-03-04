@@ -7,7 +7,7 @@ import (
 
 	"github.com/7ojo/backends/auth"
 	"github.com/7ojo/backends/config"
-	"github.com/mailhog/data"
+	"github.com/7ojo/data"
 )
 
 // Service represents a delivery service implementation
